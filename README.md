@@ -1,0 +1,1 @@
+Scripts utilizados na aula de C# primeiros passos: Lógica de Programação e Algoritimo.
