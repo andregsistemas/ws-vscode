@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\PRojetos\\aulas\\ws-vscode\\.casting\\.casting.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\saidaDeDados\\saidaDeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\PRojetos\\aulas\\ws-vscode\\.casting\\.casting.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\saidaDeDados\\saidaDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\PRojetos\\aulas\\ws-vscode\\.casting\\.casting.csproj",
-        "projectName": ".casting",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\PRojetos\\aulas\\ws-vscode\\.casting\\.casting.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\saidaDeDados\\saidaDeDados.csproj",
+        "projectName": "saidaDeDados",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\saidaDeDados\\saidaDeDados.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\PRojetos\\aulas\\ws-vscode\\.casting\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\saidaDeDados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

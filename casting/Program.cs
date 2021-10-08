@@ -6,8 +6,8 @@ namespace casting
     {
         static void Main(string[] args)
         {
-              int a, b, d;
-           double resultado, c;
+            int a, b, d;
+            double resultado, c;
 
             a = 5;
             b = 2;

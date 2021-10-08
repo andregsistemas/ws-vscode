@@ -6,7 +6,7 @@ namespace EntradaC_
     {
         static void Main(string[] args)
         {
-            String frase = Console.ReadLine();
+            string frase = Console.ReadLine();
             string x = Console.ReadLine();
             string y = Console.ReadLine();
             string z = Console.ReadLine();
@@ -17,8 +17,6 @@ namespace EntradaC_
             Console.WriteLine(y);
             Console.WriteLine(z);
            
-
-
         }
     }
 }
