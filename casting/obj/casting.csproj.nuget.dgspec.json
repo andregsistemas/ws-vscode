@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\casting\\casting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\casting\\casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj",
-        "projectName": "Primeiro",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\casting\\casting.csproj",
+        "projectName": "casting",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\casting\\casting.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\casting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

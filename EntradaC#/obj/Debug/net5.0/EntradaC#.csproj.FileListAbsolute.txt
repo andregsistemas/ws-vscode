@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\bin\Debug\net5.0\EntradaC#.exe
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\bin\Debug\net5.0\EntradaC#.deps.json
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\bin\Debug\net5.0\EntradaC#.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\bin\Debug\net5.0\EntradaC#.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\bin\Debug\net5.0\EntradaC#.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\bin\Debug\net5.0\ref\EntradaC#.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\bin\Debug\net5.0\EntradaC#.pdb
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\ref\EntradaC#.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.pdb
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\EntradaC#\obj\Debug\net5.0\EntradaC#.genruntimeconfig.cache

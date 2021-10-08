@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\EntradaC#\\EntradaC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\EntradaC#\\EntradaC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj",
-        "projectName": "Primeiro",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\Primeiro.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\EntradaC#\\EntradaC#.csproj",
+        "projectName": "EntradaC#",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\EntradaC#\\EntradaC#.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\Primeiro\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Projetos\\Aulas\\ws-vscode\\EntradaC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

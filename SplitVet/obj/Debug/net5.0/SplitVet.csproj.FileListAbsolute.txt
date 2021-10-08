@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\bin\Debug\net5.0\SplitVet.exe
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\bin\Debug\net5.0\SplitVet.deps.json
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\bin\Debug\net5.0\SplitVet.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\bin\Debug\net5.0\SplitVet.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\bin\Debug\net5.0\SplitVet.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\bin\Debug\net5.0\ref\SplitVet.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\bin\Debug\net5.0\SplitVet.pdb
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\ref\SplitVet.dll
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.pdb
+C:\Users\andre\OneDrive\Documentos\Projetos\Aulas\ws-vscode\SplitVet\obj\Debug\net5.0\SplitVet.genruntimeconfig.cache
